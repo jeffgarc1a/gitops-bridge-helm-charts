@@ -3,6 +3,16 @@ entries:
   aws-ebs-csi-classes:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-02-10T23:36:57.833788373Z"
+    description: A Helm chart for AWS EBS CSI Classes
+    digest: 58093fbc22e1d08c4983cac3c3cd82b9f320e7d2b6fdb6712fff5667b8f858aa
+    name: aws-ebs-csi-classes
+    type: application
+    urls:
+    - https://github.com/jeffgarc1a/gitops-bridge-helm-charts/releases/download/aws-ebs-csi-classes-1.1.0/aws-ebs-csi-classes-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2023-12-15T23:22:04.977339754Z"
     description: A Helm chart for AWS EBS CSI Classes
     digest: ece5d4d2f31a206b8aebedd3fd82411fe7a30045feb13f4e7b73c99f3b2bbccd
@@ -206,4 +216,4 @@ entries:
     urls:
     - https://github.com/gitops-bridge-dev/gitops-bridge-helm-charts/releases/download/team-1.0.0/team-1.0.0.tgz
     version: 1.0.0
-generated: "2024-07-28T18:12:25.118753729Z"
+generated: "2025-02-10T23:36:57.833827426Z"
